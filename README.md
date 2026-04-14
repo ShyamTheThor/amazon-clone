@@ -10,7 +10,6 @@ A responsive **Amazon homepage clone** built using **HTML and CSS**, replicating
 
 * 🧱 Amazon-like homepage layout
 * 🎨 Clean UI using pure CSS
-* 📱 Responsive design (mobile + desktop) *(if applicable — don’t lie)*
 * 🖼️ Product sections and banners
 * 🔍 Navigation bar with search box
 
